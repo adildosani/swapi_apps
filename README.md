@@ -30,9 +30,7 @@ Run `ng test` or `npm run test` or `yarn test` to execute the unit tests via [Ka
 
 Run `ng e2e` or `npm run e2e` or `yarn e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Continuous integration used
 
-This project is setup to be build by [TravisCI](https://travis-ci.com/) after every deployment on Github
 
 ## Demo
 You will find the working project [here](https://star-wars-b696f.firebaseapp.com/)
