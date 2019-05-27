@@ -40,4 +40,4 @@ You will find the working project [here](https://star-wars-b696f.firebaseapp.com
 ## Other details
 You can also search or filter planets directly by adding search or page params in the browser url.
 Eg: `?search=planet_name` or `?page=page_number`.
-# swapi_apps
+# swapi_apps.
